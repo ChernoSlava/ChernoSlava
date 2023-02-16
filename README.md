@@ -15,7 +15,7 @@
   <img
        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1Y2NlNmU5M2I0NzAwM2Q5NTE2ZDc2YTAxMTg1YmI4ZWI0MTRlYiZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" 
        width="600" 
-       height="400" 
+       height="350" 
        frameBorder="0" 
        class="giphy-embed" 
        allowFullScreen>

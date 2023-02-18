@@ -1,10 +1,5 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-   <div id="badges">
-    <a href="[www.linkedin.com/in/SlavaChernogorov](https://www.linkedin.com/in/SlavaChernogorov/)" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100px"/>
-    </a>
-  </div>
  <h1>
    Welcome, friends
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -32,7 +27,7 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I work with a mentor and deepen my knowledge of development.
 
-- :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/slava-chernogorov-063760239/)
+- :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/SlavaChernogorov/)
 
 ---
 

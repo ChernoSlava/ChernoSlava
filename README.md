@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    <div id="badges">
-    <a href="https://www.linkedin.com/in/slava-chernogorov-063760239/" target="_blank">
+    <a href="www.linkedin.com/in/SlavaChernogorov" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100px"/>
     </a>
   </div>

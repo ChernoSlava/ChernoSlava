@@ -1,25 +1,14 @@
-<div id="header" align="center">
- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" >
  <h1>
-   Welcome, friends
+   Welcome, Friends
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+ <h2>My name is Viacheslav, I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
  
 </div>
-<div align="center">
-  <img
-       src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1Y2NlNmU5M2I0NzAwM2Q5NTE2ZDc2YTAxMTg1YmI4ZWI0MTRlYiZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" 
-       width="600" 
-       height="350" 
-       frameBorder="0" 
-       class="giphy-embed" 
-       allowFullScreen>
-</div>
-
----
 
 ### :man_technologist: About Me :
-I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 
 - :telescope: I'm completed the Yandex course with a degree in web development.
 
@@ -30,6 +19,15 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/SlavaChernogorov/)
 
 ---
+<div>
+  <img
+       src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1Y2NlNmU5M2I0NzAwM2Q5NTE2ZDc2YTAxMTg1YmI4ZWI0MTRlYiZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" 
+       width="400" 
+       height="250" 
+       frameBorder="0" 
+       class="giphy-embed" 
+       allowFullScreen>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 

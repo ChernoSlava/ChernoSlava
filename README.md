@@ -42,7 +42,7 @@ ____
 
 ### 👨🏻‍💻Project with Yandex.practicum:
 
-1) [Статичный сайт Путешествие по России](https://chernoslava.github.io/Russian-travel/);
+1) [Статичный сайт Путешествие по России](https://github.com/ChernoSlava/Russian-travel);
 2) [Репозиторий проекта Место на чистом js](https://github.com/ChernoSlava/Mesto);
 3) [Репозиторий полноценного доработанного проекта Место Frontend и Backend](https://github.com/ChernoSlava/react-mesto-api-full);
 4) [Дипломный проект Movies explorer](https://github.com/ChernoSlava/movies-explorer-frontend).

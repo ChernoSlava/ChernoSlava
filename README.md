@@ -58,7 +58,7 @@ ____
 
 ### 🐲Projects using different technologies:
 
-1) [Dihitals clock с использование SCSS/jQuery](https://github.com/ChernoSlava/Digital-Clock.git);
+1) [Digitals clock с использование SCSS/jQuery](https://github.com/ChernoSlava/Digital-Clock.git);
 2) [Films review с использование PUG/SCSS](https://github.com/ChernoSlava/Film-Review);
 3) [2d игра на Vanila JavaScript/Canvas](https://github.com/ChernoSlava/Fluppy);
 4) [Сайт по продаже бургеров React/Next js](https://github.com/ChernoSlava/Burgers-Next-JS).

@@ -43,7 +43,7 @@ ____
 ### 👨🏻‍💻Project with Yandex.practicum:
 
 1) [Static website Travel to Russia](https://github.com/ChernoSlava/Russian-travel );
-2) [The project repository is a place on pure js](https://github.com/ChernoSlava/Mesto );
+2) [Mesto project using JavaScript](https://github.com/ChernoSlava/Mesto );
 3) [Repository of a full-fledged modified project, Frontend and Backend location](https://github.com/ChernoSlava/react-mesto-api-full );
 4) [Graduation project Movies explorer](https://github.com/ChernoSlava/movies-explorer-frontend ).
 

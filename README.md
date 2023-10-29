@@ -22,7 +22,7 @@ ____
 
 ### :hammer_and_wrench: Languages and Tools :
 
-#### HTML, CSS, Javascript, TypeScript, React, Next js, Express
+#### HTML, CSS, JavaScript, TypeScript, React, Next js, Express
 #### PUG, SASS, CSS modules, StyledComponents, Storybook, Chakra UI, Tailwind, Redux
 #### MongoDB, PostgreSQL
 

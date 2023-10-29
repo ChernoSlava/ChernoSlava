@@ -22,17 +22,10 @@ ____
 
 ### :hammer_and_wrench: Languages and Tools :
 
-#### Main 
-HTML, CSS, Javascript, TypeScript, React, Next js, Express
+#### HTML, CSS, Javascript, TypeScript, React, Next js, Express
+#### PUG, SASS, CSS modules, StyledComponents, Storybook, Chakra UI, Tailwind, Redux
+#### MongoDB, PostgreSQL
 
-#### Technologies 
-PUG, SASS, CSS modules, StyledComponents, Storybook, Chakra UI, Tailwind, Redux
-
-#### Database 
-MongoDB, PostgreSQL
-
-#### Languages 
-Russian - Native, English - Intermediate, Turkish - Elementary 
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="50"/>&nbsp;

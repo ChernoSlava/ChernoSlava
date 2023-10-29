@@ -4,17 +4,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
  </h1>
 
- <h3>My name is Viacheslav, I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ <h3>My name is Viacheslav, I'm a Frontend Developer with experience in React development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 ### :man_technologist: About Me :
 
 
-- :telescope: I'm completed the Yandex course with a degree in web development.
+- :telescope: Over the past two years, my journey has been filled with learning and practical experience. The first year was dedicated to active learning, including completing a course in web development at Yandex.
+- :seedling: Following my education, I worked as an HTML markup specialist for 6 months, which helped me deepen my knowledge in web development and understand the basics of markup.
+- :zap:  I then transitioned to React development, working successfully in this field for 8 months, where I deepened my understanding in frontend development and the use of React to create interactive web applications.
+- :telescope: Currently, I am actively learning and expanding my expertise in TypeScript, Node.js, and Next.js.
 
-- :seedling: Constantly learning new technologies and applying them.
-
-- :zap: In my free time, I work with a mentor and deepen my knowledge of development.
 
 - :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/SlavaChernogorov/)
 

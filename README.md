@@ -16,7 +16,7 @@
 - :telescope: Currently, I am actively learning and expanding my expertise in TypeScript, Node.js, and Next.js.
 
 
-- :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/SlavaChernogorov/)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/SlavaChernogorov/)
 
 ____
 

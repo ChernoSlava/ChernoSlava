@@ -69,7 +69,7 @@ ____
 4) [React/Next js burger website](https://github.com/ChernoSlava/Burgers-Next-JS ).
 
 ---
-### :fire: My Stats :
+### My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChernoSlava&theme=vision-friendly-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChernoSlava&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

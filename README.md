@@ -7,7 +7,7 @@
  <h3>My name is Viacheslav, I'm a Frontend Developer with experience in React development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-### :man_technologist: About Me :
+### About Me :
 
 
 - :telescope: Over the past two years, my journey has been filled with learning and practical experience. The first year was dedicated to active learning, including completing a course in web development at Yandex.
@@ -20,7 +20,7 @@
 
 ____
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 #### HTML, CSS, JavaScript, TypeScript, React, Next js, Express
 #### PUG, SASS, CSS modules, StyledComponents, Storybook, Chakra UI, Tailwind, Redux

@@ -4,16 +4,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
  </h1>
 
- <h3>My name is Viacheslav, I'm a Frontend Developer with experience in React development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ <h3>My name is Viacheslav, I'm Technical Product Manager with experience in Web Development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 ### About Me :
 
 
 - :telescope: Over the past two years, my journey has been filled with learning and practical experience. The first year was dedicated to active learning, including completing a course in web development at Yandex.
-- :seedling: Following my education, I worked as an HTML markup specialist for 6 months, which helped me deepen my knowledge in web development and understand the basics of markup.
-- :zap:  I then transitioned to React development, working successfully in this field for 8 months, where I deepened my understanding in frontend development and the use of React to create interactive web applications.
-- :telescope: Currently, I am actively learning and expanding my expertise in TypeScript, Node.js, and Next.js.
+- :seedling: After receiving my education, I worked as an HTML specialist for 6 months, then for 8 months I worked in a startup developing a web platform (including Front and Back).
+- :zap:  Then I became a Product Manager in an international IT company where I was involved in project management and creation of a web application for managing mobile advertising.
+- :telescope: Currently, I work as a Technical Product Manager and am involved in the UX design, technical specifications, development and maintenance of mobile and web applications.
 
 
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/SlavaChernogorov/)
@@ -22,10 +22,11 @@ ____
 
 ### Languages and Tools :
 
-#### HTML, CSS, JavaScript, TypeScript, React, Next js, Express
-#### PUG, SASS, CSS modules, StyledComponents, Storybook, Chakra UI, Tailwind, Redux
-#### MongoDB, PostgreSQL
+#### HTML, CSS, JavaScript, TypeScript, React, Next js, Express, PHP, Laravel.
+#### PUG, Blades, SASS, CSS modules, StyledComponents, Storybook, Chakra UI, Tailwind, Redux.
+#### MongoDB, PostgreSQL, MySQL, SQLite.
 
+#### Figma, Jira, MindMaps, Miro, Bitrix.
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="50"/>&nbsp;
@@ -43,7 +44,7 @@ ____
 
 ---
 
-## Links to my works
+## Links to my past projects
 
 ### 👨🏻‍💻Project with Yandex.practicum:
 

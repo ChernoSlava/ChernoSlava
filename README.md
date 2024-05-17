@@ -4,29 +4,29 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
  </h1>
 
- <h3>My name is Viacheslav, I'm Technical Product Manager with experience in Web Development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+ <h2>My name is Viacheslav <br/>
+I'm Technical Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
 </div>
 
 ### About Me :
 
+- :telescope: 1 year of training in Yandex practice.
+- :seedling: 1.5 years - Experience in **Frontend and Web Development**.
+- :zap: 1 year - Experience in **Products Managment**.
+- :telescope: Currently, I work as a **Technical Product Manager** in an IT Startup And I'm very very happy.
 
-- :telescope: Over the past two years, my journey has been filled with learning and practical experience. The first year was dedicated to active learning, including completing a course in web development at Yandex.
-- :seedling: After receiving my education, I worked as an HTML specialist for 6 months, then for 8 months I worked in a startup developing a web platform (including Front and Back).
-- :zap:  Then I became a Product Manager in an international IT company where I was involved in project management and creation of a web application for managing mobile advertising.
-- :telescope: Currently, I work as a Technical Product Manager and am involved in the UX design, technical specifications, development and maintenance of mobile and web applications.
-
-
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/SlavaChernogorov/)
+<br/>
+How to reach me: [LinkedIn](https://www.linkedin.com/in/SlavaChernogorov/)
 
 ____
 
 ### Languages and Tools :
 
+#### Figma, Jira, MindMaps, Miro, Bitrix.
 #### HTML, CSS, JavaScript, TypeScript, React, Next js, Express, PHP, Laravel.
 #### PUG, Blades, SASS, CSS modules, StyledComponents, Storybook, Chakra UI, Tailwind, Redux.
 #### MongoDB, PostgreSQL, MySQL, SQLite.
-
-#### Figma, Jira, MindMaps, Miro, Bitrix.
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="50"/>&nbsp;

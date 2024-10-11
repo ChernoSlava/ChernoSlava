@@ -5,7 +5,7 @@
  </h1>
 
  <h2>My name is Viacheslav <br/>
-I'm Technical Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+I'm Technical Project Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 </div>
 
@@ -13,8 +13,8 @@ I'm Technical Product Manager <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :telescope: 1 year of training in Yandex practice.
 - :seedling: 1.5 years - Experience in **Frontend and Web Development**.
-- :zap: 1 year - Experience in **Products Managment**.
-- :telescope: Currently, I work as a **Technical Product Manager** in an IT Startup And I'm very very happy.
+- :zap: 1 year - Experience in **Project/Products Managment**.
+- :telescope: Currently, I work as a **Technical Project Manager** in an IT And I'm very very happy.
 
 <br/>
 How to reach me: [LinkedIn](https://www.linkedin.com/in/SlavaChernogorov/)

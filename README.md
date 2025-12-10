@@ -13,7 +13,7 @@ I'm Technical Project Manager <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :telescope: 1 year of training in Yandex practice.
 - :seedling: 1.5 years - Experience in **Frontend and Web Development**.
-- :zap: 1 year - Experience in **Project/Products Managment**.
+- :zap: 3 year - Experience in **Project/Products Managment**.
 - :telescope: Currently, I work as a **Technical Project Manager** in an IT And I'm very very happy.
 
 <br/>
